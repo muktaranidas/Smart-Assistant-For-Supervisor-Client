@@ -1,0 +1,68 @@
+[
+  {
+    "categoryId": "1",
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-103c483d4c2e48f6d1ba6a8d48a5d572-lq",
+    "name": "The Notebook",
+    "location": "Mirpur2",
+    "resalePrice": "100",
+    "originalPrice": "400",
+    "yearsOfUse": "1",
+    "timeWhenItPosted": "10am",
+    "sellersName": "MuktaThakur"
+  },
+  {
+    "categoryId": "1",
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-daec1754eb4235e058647058b16492cd-lq",
+    "name": "Message in a bottle",
+    "location": "Mirpur2",
+    "resalePrice": "100",
+    "originalPrice": "400",
+    "yearsOfUse": "2",
+    "timeWhenItPosted": "10am",
+    "sellersName": "MuktaThakur"
+  },
+  {
+    "categoryId": "2",
+    "picture": "https://1.bp.blogspot.com/-L9UgWbyL-r4/XYd1P0bJQ_I/AAAAAAAAYCU/V6IFWO2qtbId0L2qiaj3ziNMNV8e-ewdACLcBGAsYHQ/s1600/Paramoy%2BLife%2Ber%2BParacetamol%2Bby%2BJhankar%2BMahbub%2B-%2BBangla%2BMotivational%2BPDF%2BBooks.jpg",
+    "name": "Paramoy Life er Paracetamol",
+    "location": "Mirpur3",
+    "resalePrice": "300",
+    "originalPrice": "600",
+    "yearsOfUse": "3",
+    "timeWhenItPosted": "12am",
+    "sellersName": "PramaSaha"
+  },
+  {
+    "categoryId": "2",
+    "picture": "https://1.bp.blogspot.com/-p2dm_cFEM0Y/XYobAJv9agI/AAAAAAAAYEs/QR1aUx_AwDMiZ8_3sgIlrnanTZ9T_hYZACLcBGAsYHQ/s1600/Recharge%2BYour%2BDown%2BBattery%2Bby%2BJhankar%2BMahbub%2B-%2B%2BBangla%2BMotivational%2BPDF%2BBooks.jpg",
+    "name": "Recharge Your Down Battery",
+    "location": "Mirpur4",
+    "resalePrice": "350",
+    "originalPrice": "700",
+    "yearsOfUse": "4",
+    "timeWhenItPosted": "11am",
+    "sellersName": "PramaSaha"
+  },
+  {
+    "categoryId": "3",
+    "picture": "https://1.bp.blogspot.com/-iXTnE5XT1dY/XyZAVSmMWHI/AAAAAAAAcL0/2ODQRxz3bDQ56g2cgcGJul3CWMxZKOiSQCLcBGAsYHQ/s1600/Programming%2Ber%2BChouddogoshthi%2Bby%2BJhankar%2BMahbub%2B-%2BPDF%2BBangla%2BProgramming%2BBooks.jpg",
+    "name": "Programming er Chouddogoshthi",
+    "location": "Mirpur5",
+    "resalePrice": "200",
+    "originalPrice": "400",
+    "yearsOfUse": "5",
+    "timeWhenItPosted": "9am",
+    "sellersName": "Meghla"
+  },
+  {
+    "categoryId": "3",
+    "picture": "https://2.bp.blogspot.com/--0KhOP8uZ18/WRbR0_5GohI/AAAAAAAACqo/4-W_6N_ft_EZR0xlcY9uc46Wo49OwHOTQCLcB/s1600/Programminger%2BBolod%2Bto%2BBoss.jpg",
+    "name": "Bolod To Boss",
+    "location": "Mirpur6",
+    "resalePrice": "250",
+    "originalPrice": "500",
+    "yearsOfUse": "6",
+    "timeWhenItPosted": "10am",
+    "sellersName": "Meghla"
+  }
+]
